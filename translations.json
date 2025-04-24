@@ -1,0 +1,78 @@
+{
+    "sectionHeaders": {
+        "portfolio": "\\Portfolio",
+        "services": "\\Diensten",
+        "about": "\\Over",
+        "contact": "\\Contact"
+    },
+    "nav": {
+        "projects": "Projecten",
+        "services": "Diensten",
+        "about": "Over",
+        "contact": "Contact"
+    },
+    "home": {
+        "title": "ARCHITECTURALE 3D RENDERING",
+        "description": "Ik ben Karl en ik produceer <span class='text-bold'>hoogwaardige Architecturale Visualisaties</span> voor Architecten, Ontwerpers en Vastgoedontwikkelaars. Gevestigd in Geel, België."
+    },
+    "portfolio": {
+        "title": "Geselecteerde Werken",
+        "seeMore": "Meer bekijken",
+        "project1": {
+            "name": "Multifunctioneel Sportcomplex",
+            "location": "Riga, Letland"
+        },
+        "project2": {
+            "name": "Appartementencomplex",
+            "location": "Tukums, Letland"
+        }
+    },
+    "services": {
+        "title": "Wat ik kan aanbieden",
+        "exterior": {
+            "title": "Exterieur Visualisatie",
+            "description": "Ik gespecialiseerd in het maken van fotorealistische exterieur renders die het ontwerp van uw project benadrukken in relatie tot de omgeving, materialen en verlichting."
+        },
+        "interior": {
+            "title": "Interieur Visualisatie",
+            "description": "Ik gespecialiseerd in realistische interieur visualisaties, waarbij ik indelingen en technische tekeningen transformeer in levendige renders."
+        },
+        "web": {
+            "title": "Website Ontwikkeling",
+            "description": "Ik ontwerp en ontwikkel websites die functionaliteit en visuele aantrekkelijkheid balanceren. Mijn ontwerpachtergrond, gecombineerd met mijn studies in toegepaste computerwetenschappen, stelt mij in staat digitale ervaringen te creëren."
+        },
+        "print": {
+            "title": "Printontwerp",
+            "description": "Ik ontwerp impactvolle printmaterialen die het boodschap van uw project duidelijk communiceren. Ik heb brochures, presentatieborden en folders ontworpen voor architecten en ontwerpers."
+        }
+    },
+    "projectPages": {
+        "sportsComplex": {
+            "description": "In 2024 werkte ik samen met AR-KEN4 Architectenbureau in Riga, Letland, aan hun sportcomplex ontwikkelingsproject. Als architecturale visualisator was ik verantwoordelijk voor het maken van hoogwaardige renders die het innovatieve ontwerp van de architecten tot leven brachten. Deze visuals vormden een centraal onderdeel van een professioneel ontworpen prospectus, gericht op het aantrekken van potentiële investeerders door de unieke sterke punten en marktpotentie van het project te benadrukken.",
+            "descriptionHeader": "Beschrijving",
+            "galleryHeader": "Project Galerij"
+        },
+        "apartmentComplex": {
+            "description": "In opdracht van Brook Interior Architecture in Riga, Letland, was ik verantwoordelijk voor het produceren van 3D-renders om het interieurontwerpconcept van de klant te visualiseren. Werkend vanuit bestaande plattegronden en gespecificeerde materiaalafwerkingen, ontwikkelde ik een coherente ontwerpvisie. Bovendien werd ik gevraagd om de keukenplattegrond en technische specificaties te maken. Met Revit voor modeling en technische tekeningen, renderde ik de eindvisuals in Lumion. Het project behelsde het ontwerpen van interieurs voor acht vergelijkbare appartementen per verdieping, met een balans tussen consistentie en unieke details voor elke ruimte.",
+            "descriptionHeader": "Beschrijving",
+            "galleryHeader": "Project Galerij"
+        }
+    },
+    "about": {
+        "title": "Over",
+        "text1": "Ik ben Karl Kaln, gespecialiseerd in hoogwaardige architecturale renders. Mijn passie voor dit ambacht begon tijdens mijn interieurarchitectuur studie in Letland en werd verder verrijkt door 5 jaar praktische ervaring in een architectenbureau.",
+        "text2": "Nu gevestigd in Geel, België, studeer ik Toegepaste Computerwetenschappen aan de Thomas More Hogeschool, met een focus op Applicatie-ontwikkeling, Webdesign en Digitale Projecten. Ik gedij bij het combineren van mijn creatieve achtergrond met technische expertise."
+    },
+    "contact": {
+        "email": "Mijn e-mailadres:",
+        "phone": "Mijn telefoonnummer:",
+        "sendMessage": "Stuur een bericht",
+        "scheduleCall": "Plan een videogesprek"
+    },
+    "footer": {
+        "linkedin": "LinkedIn",
+        "backToTop": "Terug naar boven",
+        "copyright": "2025 &copy; KARL KALN",
+        "privacyPolicy": "PRIVACYBELEID"
+    }
+}
